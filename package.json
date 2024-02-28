@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Francis James Omnos",
+	"author": "Francis",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,6 +13,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/sheetup1/FreeCodeCamp-Backend.git"
+		"url": "https://github.com/sheetup1/boilerplate-npm.git"
 	}
 }
